@@ -1489,7 +1489,6 @@ flutter:
     - assets/images/2021_second/Picture_10_B.PNG
     - assets/images/2021_second/Picture_1.PNG
     - assets/images/2021_second/Picture_10_C.PNG
-#    - assets/json/2021second.json
     - assets/csv/vocab.csv
     - assets/question/2011_1.xlsx
     - assets/question/2011_2.xlsx
@@ -1513,7 +1512,6 @@ flutter:
     - assets/question/2020_2.xlsx
     - assets/question/2021_1.xlsx
     - assets/question/2021_2.xlsx
-#    - assets/2012_first.xlsx
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
